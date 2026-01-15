@@ -4,3 +4,6 @@
 [submodule "learning_javascript"]
 	path = learning_javascript
 	url = https://gitee.com/Li_2023-9-13/learning_javascript.git
+[submodule "learning_css"]
+	path = learning_css
+	url = https://gitee.com/Li_2023-9-13/learning_css.git
